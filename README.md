@@ -7,4 +7,4 @@
 ---
 
 ### 🌐 My Roadmap
-[![roadmap.sh](https://roadmap.sh/card/wide/68342d17cf080f2a32ee88dd?variant=light&roadmaps=design-system%2Cfrontend)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/68342d17cf080f2a32ee88dd?variant=light&roadmaps=frontend%2Cdesign-system)](https://roadmap.sh)

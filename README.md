@@ -1,4 +1,4 @@
-## Hey, I'm Qurat Ul Ain! (You can cal me 'Ainy'😊)
+## Hey, I'm Qurat Ul Ain! (You can call me 'Ainy'😊)
 
 🚀 On a 730-day mission to become a Full Stack Developer  
 🦋 Quiet Village Girl with Loud Dreams  
@@ -12,5 +12,5 @@
 ---
 
 ### 📌 Live feed from what I read & learn daily
-<a href="https://app.daily.dev/ainycodes07"><img src="https://api.daily.dev/devcards/v2/DFNvnWicFDWSbg6MnvQwe.png?r=nk4&type=default" width="356" alt="Qurat Ul Ain's Dev Card"/></a>
+<a href="https://app.daily.dev/ainycodes07"><img src="https://api.daily.dev/devcards/v2/DFNvnWicFDWSbg6MnvQwe.png?type=wide&r=12b" width="652" alt="Qurat Ul Ain's Dev Card"/></a>
 

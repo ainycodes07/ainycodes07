@@ -7,10 +7,9 @@
 ---
 
 ### 🌐 My Learning Progress
-[![roadmap.sh](https://roadmap.sh/card/wide/68342d17cf080f2a32ee88dd?variant=light&roadmaps=frontend%2Cdesign-system)](https://roadmap.sh)  
+[![roadmap.sh](https://roadmap.sh/card/wide/68342d17cf080f2a32ee88dd?variant=dark&roadmaps=design-system%2Cfrontend)](https://roadmap.sh)
 
 ---
 
 ### 📌 Live feed from what I read & learn daily
-<a href="https://app.daily.dev/ainycodes07"><img src="https://api.daily.dev/devcards/v2/DFNvnWicFDWSbg6MnvQwe.png?type=wide&r=12b" width="652" alt="Qurat Ul Ain's Dev Card"/></a>
-
+<a href="https://app.daily.dev/ainycodes07"><img src="https://api.daily.dev/devcards/v2/DFNvnWicFDWSbg6MnvQwe.png?type=default&r=scv" width="356" alt="Qurat Ul Ain's Dev Card"/></a>

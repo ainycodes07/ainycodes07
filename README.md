@@ -1,6 +1,6 @@
 ## Hey, I'm Qurat Ul Ain! (You can call me 'Ainy'😊)
 
-🚀 On a 730-day mission to become a Full Stack Developer  
+🚀 On a mission to become a Full Stack Developer  
 🦋 Quiet Village Girl with Loud Dreams  
 🌱 Learning to become my better self every day  
 

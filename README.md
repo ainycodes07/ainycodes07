@@ -7,7 +7,7 @@
 ---
 
 ### 🌐 My Learning Progress
-[![roadmap.sh](https://roadmap.sh/card/wide/68342d17cf080f2a32ee88dd?variant=dark&roadmaps=design-system%2Cfrontend)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/68342d17cf080f2a32ee88dd?variant=dark&roadmaps=design-system%2C6836e7e01330a00f3f102b7e)](https://roadmap.sh)
 
 ---
 

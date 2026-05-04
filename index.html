@@ -113,9 +113,9 @@
         .service-card p { font-size:0.9rem; color:var(--text-secondary); margin-bottom:1rem; }
 
         /* Work Cards */
-        .projects-grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(300px,1fr)); gap:2rem; }
+        .projects-grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(min (280px, 100%), 1fr)); gap:2rem; }
         .project-card {
-            background:var(--surface); border-radius:var(--radius); overflow:hidden;
+            background:var(--surface); border-radius:var(--radius);
             border:1px solid var(--border); transition:transform var(--transition), box-shadow var(--transition);
         }
         .project-card:hover { transform:translateY(-4px); box-shadow:var(--shadow); }
